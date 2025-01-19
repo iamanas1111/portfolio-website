@@ -17,16 +17,9 @@ const Skills = () => {
             <TechStackButton name="Express.js" icon="bg-indigo-500" />
             <TechStackButton name="Node.js" icon="bg-orange-400" />
             <TechStackButton name="Tailwind CSS" icon="bg-lime-200" />
-            <TechStackButton name="PostgreSQL" icon="bg-teal-500" />
+            <TechStackButton name="MySQL" icon="bg-teal-500" />
             <TechStackButton name="Prisma" icon="bg-pink-500" />
-            <TechStackButton name="MongoDB" icon="bg-green-500" />
-            <TechStackButton name="C" icon="bg-violet-500" />
-            <TechStackButton name="C++" icon="bg-red-500" />
-            <TechStackButton name="Python" icon="bg-cyan-600" />
-            <TechStackButton name="Framer Motion" icon="bg-fuchsia-400" />
-            <TechStackButton name="shadcn/ui" icon="bg-stone-300" />
             <TechStackButton name="Git" icon="bg-lime-200" />
-            <TechStackButton name="Docker" icon="bg-blue-500" />
           </div>
         </div>
 
